@@ -187,11 +187,12 @@ body{
 .iimg2{
     width:80%; 
     height:70%;
-    margin-left: 310px;
+    margin-left: 250px;
     margin-top: 35px;
     position: absolute;
     font: 60px Arial, sans-serif;;
     color: rgb(0,0,255);
+    font-weight: 600;
 }
 .slide-div{
     width: 500px;
