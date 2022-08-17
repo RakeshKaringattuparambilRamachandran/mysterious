@@ -55,7 +55,7 @@
 .inner-main{
     width: 400px;
     height: 228px;
-    padding-top: 80px;
+   
     
     border-width: 2px;
     border-style: solid;
@@ -64,8 +64,9 @@
     color: red;
     border-radius: 20px;
     text-align: center;
-   margin-left: 19px;
-}
+    margin-left: 19px;
+    padding-top: 80px;
+} 
 .button {
     background-color: #0d0e0d69;
     border: ridge;
