@@ -55,6 +55,7 @@
 .inner-main{
     width: 400px;
     height: 228px;
+    padding-top: 80px;
     
     border-width: 2px;
     border-style: solid;
